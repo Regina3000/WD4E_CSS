@@ -1,0 +1,48 @@
+body {
+    background-color: #ebe5e5;
+    font-family:'Gill Sans',  sans-serif;
+    font-size: 12px;
+}
+
+header {
+    background-color: #958ef5;
+}
+
+nav {
+    background-color: #8073f8;
+}
+
+h1 {
+    font-size: 40px;
+    color: #1b0ed6;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    width: 20%;
+    height: 10px;
+}
+
+main {
+    background-color:antiquewhite;
+    font-size: 25px;
+}
+
+a {
+    font-size: 15px;
+}
+
+p {
+    text-align: left;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+img {
+    display: inline-block;
+}
+
+footer {
+	background-color:#958ef5
+}
