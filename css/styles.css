@@ -40,8 +40,11 @@ p {
     line-height: 15px;
 }
 
-img {
-    display: inline-block;
+div {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px;
+    grid-template-rows: 200px 200px;
+    justify-content: space-around;
 }
 
 footer {
