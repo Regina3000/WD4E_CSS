@@ -111,3 +111,33 @@ Set justify-items and/or align-content.
 https://www.w3schools.com/css/css3_flexbox.asp
 https://www.w3schools.com/css/css3_flexbox_container.asp
 https://www.w3schools.com/css/css3_flexbox_items.asp
+
+## Links
+
+Order of precedence:
+
+a:link
+a:visited
+a:hover
+a:active
+
+## Advanced selectors
+
+p.main = all paragraphs that have the class of "main"
+
+## Attribute selectors
+
+a[href='info.html'] all links where the href is "info.html"
+^ a[href^="http://umich'] starts with
+$ img[src$='.png] ends with
+* a[href*='umich'] has "umich" in the href
+
+
+PseudoClasses
+Pseudo Elements
+
+## Resources
+
+chrispederick.com/work/web-developer
+css3generator.com
+
