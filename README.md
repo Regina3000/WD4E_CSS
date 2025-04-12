@@ -140,8 +140,20 @@ Pseudo Elements
 
 chrispederick.com/work/web-developer
 css3generator.com
+https://github.com/murtaugh/HTML5-Reset
+http://learn.shayhowe.com/advanced-html-css/complex-selectors/
+http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/
 
 ### Code Together:  Navigation
 
 Add "skip to main content" for accessibility.
 
+## Browser capabilities
+
+default stylesheet
+element prefixes for unsupported properties
+caniuse.com
+-webkit-
+-moz-
+-ms-
+-o-
